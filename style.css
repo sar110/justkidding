@@ -69,9 +69,10 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
     font-size: 22px;
     font-family: 'poppins', sans-serif;
+    text-shadow: 0 0 2px #ffffff;
 }
 
 nav ul li a:hover {
@@ -103,6 +104,13 @@ nav ul li a:hover {
     color: #131313;
     font-weight: 100;
 }
+
+
+p2 {
+    font-size: 18px;
+    color: #ffffff;
+}
+
 
 p3 {
     font-size: 16px;
